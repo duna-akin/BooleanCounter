@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BooleanCounter
+comment0.text=\r\n\ This\ simple\ algorithm\ counts\ the\ amount\ of\ true\ values\ in\ a\ given\ algorithm.\r\n\r\n\ @author\ tuna-akin\r\n\ @version\ 10/1/2024\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=booleanArray
+comment2.target=int\ countTrue(boolean[])
+numComments=3
